@@ -1,6 +1,6 @@
 import { Bot, Copy, UserRound } from "lucide-react";
 import ReactMarkdown from "react-markdown";
-import logo from "../assets/dog-chat-logo-westie.png";
+import logo from "../assets/app-logo.png";
 
 export type Message = {
   id: string;

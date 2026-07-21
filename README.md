@@ -57,5 +57,5 @@ follow-up questions. Retrieval parameters such as `RETRIEVE_TOP_K`,
 deployed app uses the tested project methodology rather than exposing
 methodological controls to end users.
 
-The logo in `src/assets/dog-chat-logo-westie.png` is newly generated for this
+The logo in `src/assets/app-logo.png` is newly generated for this
 project and does not reuse the previous protected SciDog/CanAI logo.

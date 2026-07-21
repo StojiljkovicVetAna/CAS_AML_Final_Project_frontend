@@ -1,6 +1,6 @@
 import { FormEvent, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { AlertCircle, ArrowUp, CheckCircle2, MessageCircle } from "lucide-react";
-import logo from "./assets/dog-chat-logo-westie.png";
+import logo from "./assets/app-logo.png";
 import { AnswerView, type Message } from "./components/AnswerView";
 import { SourcePanel } from "./components/SourcePanel";
 import {
